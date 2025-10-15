@@ -45,7 +45,7 @@ export function About() {
                 </div>
                 <div className="space-y-1">
                   <p className="text-sm text-muted-foreground">Specialization</p>
-                  <p className="font-medium">Narrative Cinema</p>
+                  <p className="font-medium">Laying Pipe</p>
                 </div>
                 <div className="space-y-1">
                   <p className="text-sm text-muted-foreground">Focus</p>
