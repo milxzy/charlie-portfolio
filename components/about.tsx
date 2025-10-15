@@ -41,7 +41,7 @@ export function About() {
                 </div>
                 <div className="space-y-1">
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="font-medium">Los Angeles, CA</p>
+                  <p className="font-medium">Tulsa, Oklahoma</p>
                 </div>
                 <div className="space-y-1">
                   <p className="text-sm text-muted-foreground">Specialization</p>
