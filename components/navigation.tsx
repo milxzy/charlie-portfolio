@@ -9,6 +9,7 @@ const navItems = [
   { name: "Film", href: "#film" },
   { name: "Music", href: "#music" },
   { name: "Awards", href: "#awards" },
+  { name: "Credits", href: "#credits" },
   { name: "Contact", href: "#contact" },
 ]
 

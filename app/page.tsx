@@ -4,6 +4,7 @@ import { About } from "@/components/about"
 import { Film } from "@/components/film"
 import { Music } from "@/components/music"
 import { Awards } from "@/components/awards"
+import { Credits } from "@/components/credits"
 import { Contact } from "@/components/contact"
 import { Footer } from "@/components/footer"
 
@@ -16,6 +17,7 @@ export default function Home() {
       <Film />
       <Music />
       <Awards />
+      <Credits />
       <Contact />
       <Footer />
     </main>
